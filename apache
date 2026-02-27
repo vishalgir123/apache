@@ -1,0 +1,48 @@
+What is Apache HTTP Server?
+
+Apache (Apache HTTP Server) is a web server software.
+It is used to show websites on the internet.
+
+👉 When you open a website in your browser (like Chrome or Firefox), Apache sends the website files (HTML, CSS, images) to your browser.
+
+✅ Simple Meaning
+
+Apache is a program that:
+
+Stores website files
+
+Handles user requests
+
+Sends web pages to users
+
+🖥 Example
+
+If you create a website and put it on a server:
+
+Apache runs on that server
+
+When someone types your website name
+
+Apache shows your website to them
+
+🔹 Features of Apache
+
+Free and open-source
+
+Very popular web server
+
+Works on Linux, Windows, macOS
+
+Supports PHP and other languages
+
+Secure and flexible
+
+🔹 Where is Apache Used?
+
+Hosting websites
+
+Running web applications
+
+Local development (like XAMPP)
+
+Company servers
